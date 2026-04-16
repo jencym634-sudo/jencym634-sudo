@@ -8,7 +8,6 @@
 <h3 align="center">QA Automation Engineer • DevOps Explorer • Frappe Developer</h3>
 
 ---
-
 ## ⚡ At a Glance
 
 | 🚀 Area       | 💡 Details                   |
