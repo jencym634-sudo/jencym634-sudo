@@ -1,46 +1,40 @@
-<!-- 🔥 Animated Banner -->
+<!-- 🌌 PREMIUM HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=200&section=header&text=Jency%20🚀&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:7aa2f7,100:2c5364&height=220&section=header&text=Jency%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h1 align="center">Hey 👋, I'm Jency</h1>
+<h1 align="center">Hi 👋, I'm Jency</h1>
+<h3 align="center">QA Automation Engineer • DevOps Enthusiast • Frappe Developer</h3>
 
-<!-- ✨ Typing Animation -->
+---
+
+<!-- ⚡ HERO SECTION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=QA+Automation+Engineer;Cypress+Expert;Kubernetes+%26+DevOps+Enthusiast;Frappe+Developer;I+Break+Things+To+Make+Them+Better+😄&center=true&width=650&height=50&color=7aa2f7&vCenter=true&size=20&font=Fira+Code">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Cypress+Specialist;Kubernetes+Explorer;Logging+Systems+Builder;Full+Stack+with+Frappe&center=true&width=700&height=50&color=7aa2f7&vCenter=true&size=22">
 </p>
 
 <p align="center">
-  <em>"Break, test, fix, and scale — that’s how systems improve."</em>
-</p>
-
-<!-- 🌐 Profile + Social -->
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jencym634-sudo&label=Profile%20Views&color=7aa2f7&style=flat-square" />
-  <a href="https://github.com/jencym634-sudo"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <b>Building reliable systems by breaking them first ⚡</b>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 Professional Summary
 
-* 🔍 Passionate about **automation testing & debugging real-world issues**
-* 🧪 Expert in **Cypress end-to-end testing**
-* 📩 Built **Cypress → Telegram alert system** for real-time failure notifications
-* 🚢 Hands-on with **Kubernetes (Minikube, deployments, logging)**
+* 🧪 QA Engineer specializing in **Cypress automation & real-world debugging**
+* ⚙️ Hands-on experience with **Kubernetes (Minikube, deployments, logs)**
 * 📊 Built **centralized logging pipeline (Loki + Promtail + Grafana + logrotate)**
-* 🧩 Developed apps using **Frappe Framework**
-* 🏗️ Built a **Lab Booking System**
-* 🐍 Skilled in **Python & Jinja Templates**
-* 🚀 Exploring **DevOps, CI/CD & scalable systems**
+* 📩 Developed **Cypress → Telegram alert system** for failure monitoring
+* 🧩 Built full-stack apps using **Frappe Framework**
+* 🏗️ Created **Lab Booking System (workflow-based app)**
+* 🐍 Strong in **Python & Jinja templating**
+* 🚀 Focused on **DevOps, CI/CD & scalable systems**
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,docker,kubernetes" />
@@ -48,50 +42,51 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge&logo=frappe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧪 Cypress Automation Framework
 
+* Built robust end-to-end testing system
 * Automated invoice validation & UI workflows
-* Fixed flaky tests & improved stability
+* Debugged and stabilized flaky tests
 
 ### 📩 Telegram Alert System
 
-* Integrated **Cypress with Telegram Bot**
-* Sends instant alerts when tests fail
-* Built using **Node.js + Axios + Telegram API**
+* Integrated Cypress with Telegram Bot
+* Real-time alerts for test failures
+* Built using Node.js + Axios
 
 ### ⚡ Kubernetes Logging Pipeline
 
-* Log rotation using **logrotate**
-* Log aggregation via **Promtail + Loki**
-* Visualization in **Grafana**
-* Log archiving & storage
+* Implemented log rotation using logrotate
+* Aggregated logs using Promtail + Loki
+* Visualized logs in Grafana
+* Designed log storage & archiving system
 
 ### 🎓 liveclass_monitor_dinesh
 
-* Real-time classroom monitoring system
-* Tracks focus & triggers alerts
+* Real-time classroom monitoring
+* Tracks user focus & triggers alerts
 
 ### 🏢 Lab Booking System (Frappe)
 
-* Workflow-based booking system
-* Built using **Python + Jinja + Frappe**
+* Workflow-based application
+* Built using Python + Jinja + Frappe
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jencym634-sudo&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
@@ -104,25 +99,40 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jencym634-sudo&theme=tokyo-night&hide_border=true&bg_color=1a1b27"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jencym634-sudo&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
 ## 🔭 Currently Learning
 
-* 🚢 Advanced Kubernetes
-* ⚙️ CI/CD Pipelines
-* 📈 Scalable Automation Systems
+* Advanced Kubernetes
+* CI/CD Pipelines
+* Scalable Automation Systems
+
+---
+
+## 💬 Engineering Philosophy
+
+> “Break systems intentionally. Fix them intelligently. Scale them efficiently.”
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/jencym634-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/jencym634-sudo/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=jencym634-sudo&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-<!-- 🔥 Footer Animation -->
+<!-- 🌌 FOOTER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
