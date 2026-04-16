@@ -1,137 +1,123 @@
-<!-- 🌌 PREMIUM HEADER -->
+<!-- 🔥 HEADER -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:7aa2f7,100:2c5364&height=220&section=header&text=Jency%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:7aa2f7,100:2c5364&height=220&section=header&text=Jency%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jency</h1>
-<h3 align="center">QA Automation Engineer • DevOps Enthusiast • Frappe Developer</h3>
+<h3 align="center">QA Automation Engineer • DevOps Explorer • Frappe Developer</h3>
 
 ---
 
-<!-- ⚡ HERO SECTION -->
+## ⚡ At a Glance
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automation+Engineer;Cypress+Specialist;Kubernetes+Explorer;Logging+Systems+Builder;Full+Stack+with+Frappe&center=true&width=700&height=50&color=7aa2f7&vCenter=true&size=22">
-</p>
-
-<p align="center">
-  <b>Building reliable systems by breaking them first ⚡</b>
-</p>
-
----
-
-## 🧠 Professional Summary
-
-* 🧪 QA Engineer specializing in **Cypress automation & real-world debugging**
-* ⚙️ Hands-on experience with **Kubernetes (Minikube, deployments, logs)**
-* 📊 Built **centralized logging pipeline (Loki + Promtail + Grafana + logrotate)**
-* 📩 Developed **Cypress → Telegram alert system** for failure monitoring
-* 🧩 Built full-stack apps using **Frappe Framework**
-* 🏗️ Created **Lab Booking System (workflow-based app)**
-* 🐍 Strong in **Python & Jinja templating**
-* 🚀 Focused on **DevOps, CI/CD & scalable systems**
+| 🚀 Area       | 💡 Details                   |
+| ------------- | ---------------------------- |
+| 🧪 Automation | Cypress E2E Testing          |
+| 🚢 DevOps     | Kubernetes, Minikube         |
+| 📊 Logging    | Loki + Promtail + Grafana    |
+| 🧩 Backend    | Frappe, Python, Jinja        |
+| 📩 Alerts     | Cypress → Telegram           |
+| 🎯 Focus      | Scalable Systems & Debugging |
 
 ---
 
-## ⚙️ Tech Stack
+## 🧠 Who Am I
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,git,github,docker,kubernetes" />
-</p>
+> "I break systems to make them reliable."
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frappe-0089FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge"/>
-</p>
+* QA Engineer focused on **real-world testing**
+* Love debugging complex issues
+* Interested in **DevOps & system reliability**
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ What I Do
 
-### 🧪 Cypress Automation Framework
-
-* Built robust end-to-end testing system
-* Automated invoice validation & UI workflows
-* Debugged and stabilized flaky tests
-
-### 📩 Telegram Alert System
-
-* Integrated Cypress with Telegram Bot
-* Real-time alerts for test failures
-* Built using Node.js + Axios
-
-### ⚡ Kubernetes Logging Pipeline
-
-* Implemented log rotation using logrotate
-* Aggregated logs using Promtail + Loki
-* Visualized logs in Grafana
-* Designed log storage & archiving system
-
-### 🎓 liveclass_monitor_dinesh
-
-* Real-time classroom monitoring
-* Tracks user focus & triggers alerts
-
-### 🏢 Lab Booking System (Frappe)
-
-* Workflow-based application
-* Built using Python + Jinja + Frappe
+* Build **automation frameworks using Cypress**
+* Deploy & manage apps in **Kubernetes (Minikube)**
+* Design **centralized logging systems**
+* Develop apps using **Frappe Framework**
+* Create **real-time alert systems**
 
 ---
 
-## 📊 GitHub Insights
+## 🧬 Skill Matrix
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jencym634-sudo&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencym634-sudo&layout=compact&theme=tokyonight&hide_border=true" width="60%">
-</p>
+```
+Cypress Automation      █████████░ 90%
+JavaScript              ████████░░ 80%
+Python                  ████████░░ 80%
+Kubernetes              ███████░░░ 70%
+Logging Systems         ███████░░░ 70%
+Frappe Framework        ███████░░░ 70%
+```
 
 ---
 
-## 📈 Contribution Activity
+## 🗺️ Project Timeline
+
+```
+2026 → Kubernetes Logging Pipeline (Loki + Grafana)
+2026 → Telegram Alert System (Cypress Integration)
+2025 → liveclass_monitor_dinesh (Real-time monitoring system)
+2025 → Lab Booking System (Frappe Framework)
+```
+
+---
+
+## 🚀 Key Projects
+
+### 🧪 Cypress Automation
+
+* Invoice validation
+* UI workflows
+* Fixed flaky tests
+
+### 📩 Telegram Alerts
+
+* Real-time failure notifications
+* Node.js + Telegram Bot
+
+### ⚡ Kubernetes Logging
+
+* logrotate + Loki + Grafana
+* Centralized monitoring
+
+### 🏢 Lab Booking System
+
+* Workflow-based system using Frappe
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jencym634-sudo&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jencym634-sudo&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🔭 Currently Learning
+## 🔭 Currently Exploring
 
-* Advanced Kubernetes
-* CI/CD Pipelines
-* Scalable Automation Systems
-
----
-
-## 💬 Engineering Philosophy
-
-> “Break systems intentionally. Fix them intelligently. Scale them efficiently.”
+```
+Kubernetes → Advanced Deployments
+DevOps → CI/CD Pipelines
+Automation → Scaling test systems
+```
 
 ---
 
-## 🌐 Connect With Me
+## 💬 Philosophy
 
-<p align="center">
-  <a href="https://github.com/jencym634-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jency-m-31291735a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-</p>
+> "Break → Understand → Fix → Scale"
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jencym634-sudo&label=Profile%20views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=jencym634-sudo"/>
 </p>
-
-<!-- 🌌 FOOTER -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
