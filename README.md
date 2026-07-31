@@ -1,123 +1,158 @@
-<!-- 🔥 HEADER -->
+<!-- ================= HEADER ================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:7aa2f7,100:2c5364&height=220&section=header&text=Jency%20🚀&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Jency</h1>
-<h3 align="center">QA Automation Engineer • DevOps Explorer • Frappe Developer</h3>
-
----
-## ⚡ At a Glance
-
-| 🚀 Area       | 💡 Details                   |
-| ------------- | ---------------------------- |
-| 🧪 Automation | Cypress E2E Testing          |
-| 🚢 DevOps     | Kubernetes, Minikube         |
-| 📊 Logging    | Loki + Promtail + Grafana    |
-| 🧩 Backend    | Frappe, Python, Jinja        |
-| 📩 Alerts     | Cypress → Telegram           |
-| 🎯 Focus      | Scalable Systems & Debugging |
-
----
-
-## 🧠 Who Am I
-
-> "I break systems to make them reliable."
-
-* QA Engineer focused on **real-world testing**
-* Love debugging complex issues
-* Interested in **DevOps & system reliability**
-
----
-
-## ⚙️ What I Do
-
-* Build **automation frameworks using Cypress**
-* Deploy & manage apps in **Kubernetes (Minikube)**
-* Design **centralized logging systems**
-* Develop apps using **Frappe Framework**
-* Create **real-time alert systems**
-
----
-
-## 🧬 Skill Matrix
-
-```
-Cypress Automation      █████████░ 90%
-JavaScript              ████████░░ 80%
-Python                  ████████░░ 80%
-Kubernetes              ███████░░░ 70%
-Logging Systems         ███████░░░ 70%
-Frappe Framework        ███████░░░ 70%
-```
-
----
-
-## 🗺️ Project Timeline
-
-```
-2026 → Kubernetes Logging Pipeline (Loki + Grafana)
-2026 → Telegram Alert System (Cypress Integration)
-2025 → liveclass_monitor_dinesh (Real-time monitoring system)
-2025 → Lab Booking System (Frappe Framework)
-```
-
----
-
-## 🚀 Key Projects
-
-### 🧪 Cypress Automation
-
-* Invoice validation
-* UI workflows
-* Fixed flaky tests
-
-### 📩 Telegram Alerts
-
-* Real-time failure notifications
-* Node.js + Telegram Bot
-
-### ⚡ Kubernetes Logging
-
-* logrotate + Loki + Grafana
-* Centralized monitoring
-
-### 🏢 Lab Booking System
-
-* Workflow-based system using Frappe
-
----
-
-## 📊 GitHub Stats
+<h3 align="center">
+Python Software Engineer • Frappe Framework Developer • AI-Powered ERP Applications
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jencym634-sudo&theme=tokyonight"/>
+Building intelligent ERP solutions with Python, the Frappe Framework, AI Agents, and scalable backend systems.
 </p>
 
 ---
 
-## 🔭 Currently Exploring
+# 🚀 About Me
 
-```
-Kubernetes → Advanced Deployments
-DevOps → CI/CD Pipelines
-Automation → Scaling test systems
-```
+- 💼 Software Engineer specializing in **Python** and the **Frappe Framework**
+- 🤖 Building **AI-powered ERP Application Builders**
+- 🏗️ Interested in **Backend Architecture, ERP Systems, and Intelligent Automation**
+- 🔌 Experienced with **REST APIs, WebSockets, MariaDB, Redis, and OpenRouter**
+- 🌱 Currently exploring **LLM Engineering and AI Agent Workflows**
 
 ---
 
-## 💬 Philosophy
+# 💻 Tech Stack
 
-> "Break → Understand → Fix → Scale"
+### Languages
+
+- Python
+- JavaScript
+- SQL
+
+### Frameworks & ERP
+
+- Frappe Framework
+- ERPNext
+- Jinja Templates
+
+### Frappe Development
+
+- DocTypes
+- Child Tables
+- Workflows
+- Client Scripts
+- Server Scripts
+- Reports
+- Print Formats
+- REST APIs
+
+### Backend
+
+- MariaDB
+- MySQL
+- Redis
+- WebSockets
+
+### AI
+
+- OpenRouter
+- AI Agents
+- Multi-LLM Integration
+- Prompt Engineering
+
+### Development Tools
+
+- Git
+- GitHub
+- Docker
+- Bench CLI
+- VS Code
+- Postman
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 AI-Powered ERP Application Builder
+
+Developed an AI-driven platform that converts natural language business requirements into complete ERP applications using the Frappe Framework.
+
+**Highlights**
+
+- AI Agents
+- OpenRouter Integration
+- Multi-LLM Support
+- Validation Engine
+- Self-Healing Engine
+- Safe Schema Upgrades
+
+---
+
+## 📊 ERP Health Monitor
+
+Real-time ERP observability platform for monitoring:
+
+- CPU
+- RAM
+- Disk Usage
+- API Performance
+- Scheduler Jobs
+- Background Workers
+
+Built using **Frappe, Python, WebSockets, and MariaDB.**
+
+---
+
+## 🎓 Live Class Monitoring System
+
+Real-time classroom monitoring application featuring:
+
+- Live Attendance
+- Student Activity Tracking
+- Teacher Dashboard
+- WebSockets
+- Jinja Templates
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jencym634-sudo&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jencym634-sudo&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jencym634-sudo&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🌱 Currently Working On
+
+- 🤖 AI-powered ERP Application Builder
+- 🧠 AI Agents for ERP Automation
+- ⚙️ Frappe Framework
+- 🏗️ Backend System Design
+- 🚀 Open Source Contributions
+
+---
+
+# 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/jency-m-31291735a
+- 💻 GitHub: https://github.com/jencym634-sudo
+- 📧 Email: jencym634@gmail.com
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jencym634-sudo"/>
+<img src="https://komarev.com/ghpvc/?username=jencym634-sudo"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
