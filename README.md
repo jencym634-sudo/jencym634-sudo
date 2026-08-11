@@ -8,17 +8,23 @@
 
   <br/><br/>
 
-  <h1>Hi, I'm Jency M 👋</h1>
+  <h1>⚡ Jency M</h1>
 
   <p align="center">
-    <b>Python Software Engineer • Frappe &amp; ERPNext Architect • AI Systems Engineer</b>
+    <b>Senior Python Engineer &bull; Frappe &amp; ERPNext Architect &bull; AI Application Developer</b>
   </p>
 
   <p align="center">
+    <i>"Architecting self-healing backend systems, intelligent ERP application factories, and autonomous AI automation pipelines."</i>
+  </p>
+
+  <br/>
+
+  <p align="center">
     <a href="https://linkedin.com/in/jency-m-31291735a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://github.com/jencym634-sudo"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:jencym634@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
@@ -26,20 +32,26 @@
 
 <br/>
 
-## ⚡ At a Glance
+## 🧬 Engineering DNA
 
 <table align="center" width="100%">
   <tr>
-    <td width="25%" align="center"><b>🎓 Role</b></td>
-    <td width="25%" align="center"><b>🚀 Core Stack</b></td>
-    <td width="25%" align="center"><b>🤖 Specialization</b></td>
-    <td width="25%" align="center"><b>🎯 Mission</b></td>
-  </tr>
-  <tr>
-    <td align="center">Python &amp; Frappe Developer</td>
-    <td align="center">Python • Frappe • MariaDB • Redis</td>
-    <td align="center">AI Agents &amp; ERP Automation</td>
-    <td align="center">Intelligent Systems</td>
+    <td width="50%" valign="top">
+      <h3>⚙️ Core Backend & ERP Architecture</h3>
+      <ul>
+        <li><b>Frappe &amp; ERPNext Core</b>: Custom DocType schemas, complex controller hooks, Jinja reports, and Desk dashboards.</li>
+        <li><b>High-Throughput Backends</b>: Scalable REST APIs, Redis caching layers, MariaDB query optimization, and RQ queues.</li>
+        <li><b>Bench & Infrastructure</b>: CLI bench orchestration, multi-tenant site provisioning, Nginx proxies, and Docker containerization.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Engineering & Quality Systems</h3>
+      <ul>
+        <li><b>Multi-LLM Orchestration</b>: OpenRouter integration, multi-provider fallbacks, and agentic prompt pipelines.</li>
+        <li><b>Self-Healing Software Engines</b>: Abstract Syntax Tree (AST) code validation before programmatic deployment.</li>
+        <li><b>Quality Engineering</b>: End-to-End Cypress automation, API contract testing, and regression suites.</li>
+      </ul>
+    </td>
   </tr>
 </table>
 
@@ -47,89 +59,83 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- 🐍 **Python & Backend**: Building REST APIs, MariaDB schemas, Redis queues, and high-concurrency event handling.
-- 🏗️ **Frappe & ERPNext**: Developing custom DocTypes, server scripts, workflows, and Desk dashboards.
-- 🤖 **AI & Automation**: Integrating OpenRouter LLMs, AI agents, speech-to-text pipelines, and auto-scaffolding engines.
-- 🧪 **Testing & Quality**: Writing Cypress E2E automation suites, AST syntax validation rules, and self-healing deployment scripts.
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technology Ecosystem
 
 <div align="center">
 
-| Domain | Technologies |
+| Ecosystem | Technologies &amp; Tools |
 | :--- | :--- |
-| **Languages** | `Python 3.x` `JavaScript (ES6+)` `SQL` `HTML5` `CSS3` `Bash` |
+| **Languages** | `Python 3.11+` `JavaScript (ES6+)` `SQL (MariaDB/MySQL)` `Bash` `HTML5` `CSS3` |
 | **Frameworks** | `Frappe Framework` `ERPNext` `FastAPI` `React` `Jinja2` |
-| **Databases & Queues** | `MariaDB` `MySQL` `Redis Caching` `RQ (Redis Queue)` |
-| **AI & Processing** | `OpenRouter` `Multi-LLM APIs` `AI Agents` `Faster-Whisper` `FFmpeg` |
-| **DevOps & QA** | `Cypress E2E` `Docker` `Linux` `Nginx` `Git` `Frappe Bench CLI` |
+| **Data & Messaging** | `MariaDB` `MySQL` `Redis Caching` `Redis Queue (RQ)` `WebSockets` |
+| **AI & Media Pipelines** | `OpenRouter` `Multi-LLM APIs` `AI Agents` `Faster-Whisper` `FFmpeg` |
+| **DevOps & Testing** | `Cypress E2E` `Docker` `Linux (Ubuntu)` `Nginx` `Git` `Frappe Bench CLI` |
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🔬 System Case Studies
 
 ### 1️⃣ AI-Powered ERP Application Builder
-> **Natural Language Specs ➔ Standalone Frappe ERP Applications**
+> **Autonomous Code Synthesis Engine: Natural Language Requirements ➔ Standalone Frappe ERP Apps**
 
-- **Multi-LLM Abstraction**: Pluggable OpenRouter engine supporting multi-model fallback and structured prompt guards.
-- **Self-Healing AST Validation**: Syntax tree verification catching code bugs before site deployment.
-- **Automated CLI Scaffolding**: Programmatic `bench` site provisioning and app installation in isolated environments.
+- 🎯 **Engineering Challenge**: Standard Frappe ERP development requires manual DocType schema creation, controller boilerplate, site migration commands, and workspace navigation setup.
+- ⚡ **Architectural Solution**: Synthesizes structured Frappe app packages directly from natural language specifications using OpenRouter multi-LLM orchestration.
+- 🛡️ **Verification & Resilience**: Evaluates output through Abstract Syntax Tree (AST) validation before running programmatic `bench` site deployment, ensuring zero-downtime installation.
 
 ---
 
 ### 2️⃣ Real-Time ERP Health Monitor
-> **Infrastructure & Queue Observability Engine**
+> **Infrastructure Observability & Telemetry System for Frappe Instances**
 
-- **Metrics Telemetry**: Multi-threaded Python service monitoring CPU load, RAM, disk I/O, and database locks.
-- **WebSocket Streaming**: Live push metrics to Frappe Desk UI without page reloads.
-- **Queue Inspector**: Real-time Redis worker introspection for stalled transactions and scheduler delays.
+- 🎯 **Engineering Challenge**: Large ERP systems suffer from undetected background worker queues, stuck scheduler cron jobs, and database lock contention.
+- ⚡ **Architectural Solution**: A native Frappe telemetry module polling CPU load, RAM utilization, Redis Queue (RQ) worker statuses, and MariaDB lock health.
+- 📡 **Real-Time Delivery**: Streams metrics to the Frappe Desk UI over WebSockets without client-side polling overhead.
 
 ---
 
 ### 3️⃣ Live Classroom Monitoring System
-> **Real-Time Student Focus & Attendance Verification Platform**
+> **High-Concurrency Attendance & Engagement Verification Platform**
 
-- **Session Heartbeats**: Bi-directional WebSocket event loop tracking student engagement live.
-- **Device Fingerprinting**: Token session verification preventing proxy attendance.
-- **Teacher Dashboard**: Real-time Jinja and JavaScript Desk UI with dynamic session controls.
+- 🎯 **Engineering Challenge**: Remote digital classrooms require real-time student engagement tracking and device verification without overloading database connections.
+- ⚡ **Architectural Solution**: Event loop utilizing session heartbeats and unique browser fingerprinting over WebSockets to enforce unique student sessions.
+- 📊 **Live Operations**: Provides real-time teacher oversight controls and automated background attendance persistence.
 
 ---
 
 ### 4️⃣ AI Multilingual Caption Studio
-> **FastAPI + React Speech-to-Text & Subtitle Engine**
+> **Full-Stack Speech-to-Text, Translation & ASS Subtitle Engine**
 
-- **Faster-Whisper Engine**: Word-level timestamp generation for precise audio transcription.
-- **Async API Pipeline**: Non-blocking FastAPI backend managing translation and video processing jobs.
-- **FFmpeg Subtitle Rendering**: Custom ASS subtitle engine with rich typography and styling templates.
+- 🎯 **Engineering Challenge**: Processing video assets for multilingual captions requires sub-second timestamp alignment, translation, and custom rendering pipelines.
+- ⚡ **Architectural Solution**: Asynchronous FastAPI backend coupled with Faster-Whisper for word-level speech recognition, coupled with a React single-page interface.
+- 🎬 **Video Pipeline**: Custom ASS subtitle rendering engine compiling final hardcoded MP4 videos via FFmpeg workers.
 
 ---
 
-## 📐 How I Think About Software
+## 📐 Systems Philosophy
 
 ```text
-Problem Analysis ➔ Schema Architecture ➔ Clean Python Code ➔ AST & Cypress Testing ➔ Automated Deployment
+┌────────────────┐     ┌──────────────────┐     ┌──────────────────┐     ┌─────────────────┐
+│ Domain Specs   │ ──► │ Clean Architecture│ ──► │ AST & Cypress    │ ──► │ Automated       │
+│ & Requirements │     │ & Data Schemas   │     │ Verification     │     │ Deployment      │
+└────────────────┘     └──────────────────┘     └──────────────────┘     └─────────────────┘
 ```
 
-> *"Build systems that are modular, self-validating, observable, and built to handle failure gracefully."*
+> *"Systems must be modular, self-validating, observable, and designed to fail gracefully under unexpected workloads."*
 
 ---
 
-## 💻 Current Focus
+## 💻 Current Workspace Focus
 
 ```text
-├── 🚀 BUILDING : AI ERP App Builder & Autonomous Multi-Agent Automation Workflows
-└── 📚 LEARNING : Distributed System Design & Advanced Pytest/Cypress E2E Testing
+├── 🚀 BUILDING : AI-Driven ERP Application Factory & Multi-Agent Workflow Automation
+└── 📚 EXPANDING : Distributed Systems Architecture & Advanced Performance Tuning
 ```
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Telemetry & Activity
 
 <div align="center">
 
@@ -141,7 +147,7 @@ Problem Analysis ➔ Schema Architecture ➔ Clean Python Code ➔ AST & Cypress
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Operational Connect
 
 <div align="center">
 
@@ -161,6 +167,6 @@ Problem Analysis ➔ Schema Architecture ➔ Clean Python Code ➔ AST & Cypress
 
   <br/>
 
-  <p><sub><i>Architect systems. Automate workflows. Verify state.</i></sub></p>
+  <p><sub><b>Architect systems. Automate workflows. Verify state.</b></sub></p>
 
 </div>
