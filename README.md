@@ -8,7 +8,7 @@
   <h1>Jency M</h1>
 
   <p align="center">
-    <b>Python &bull; Frappe Framework &bull; AI Application Developer</b>
+    <b>Python &bull; Frappe Framework &bull; AI Application Developer; QA Tester</b>
   </p>
 
   <p align="center">
