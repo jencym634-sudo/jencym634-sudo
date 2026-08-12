@@ -1,12 +1,18 @@
 <div align="center">
 
   <!-- Aesthetic Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=140&section=header&text=Jency%20M&fontSize=38&fontColor=2d3748&desc=Python%20%7C%20Frappe%20Framework%20%7C%20AI%20App%20Developer&descAlignY=62&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4338ca,50:6366f1,100:ec4899&height=120&section=header" width="100%" alt="Header" />
 
   <br/>
 
+  <h1>Jency M</h1>
+
   <p align="center">
-    👋 Hi, I'm <b>Jency M</b> &bull; Python &amp; Frappe Framework Developer building web apps and AI tools.
+    <b>Python &bull; Frappe Framework &bull; AI Application Developer</b>
+  </p>
+
+  <p align="center">
+    👋 Hi, I'm <b>Jency M</b> &bull; Building modern web apps, ERPNext solutions &amp; AI tools.
   </p>
 
   <!-- Quick Links -->
