@@ -57,10 +57,10 @@
 
 | Project | Overview | Tech |
 | :--- | :--- | :--- |
-| ** AI ERP App Builder** | Generates ready-to-deploy Frappe ERP app modules from natural language specs | `Python` `Frappe` `OpenRouter` |
-| ** ERP Health Monitor** | Real-time observability dashboard streaming host & Redis metrics via WebSockets | `Frappe` `WebSockets` `Redis` |
-| ** Live Classroom Observer** | Attendance & student engagement verification system with session fingerprinting | `FastAPI` `WebSockets` `Redis` |
-| ** AI Caption Studio** | Automated speech recognition, translation & ASS subtitle rendering pipeline | `FastAPI` `Faster-Whisper` `FFmpeg` `React` |
+|  AI ERP App Builder | Generates ready-to-deploy Frappe ERP app modules from natural language specs | `Python` `Frappe` `OpenRouter` |
+|  ERP Health Monitor | Real-time observability dashboard streaming host & Redis metrics via WebSockets | `Frappe` `WebSockets` `Redis` |
+|  Live Classroom Observer | Attendance & student engagement verification system with session fingerprinting | `FastAPI` `WebSockets` `Redis` |
+|  AI Caption Studio | Automated speech recognition, translation & ASS subtitle rendering pipeline | `FastAPI` `Faster-Whisper` `FFmpeg` `React` |
 
 ---
 
