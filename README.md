@@ -1,9 +1,9 @@
 <div align="center">
 
-  <!-- Refined Hero Visual -->
+  <!-- Hero Header Visual -->
   <img src="assets/hero-studio.svg" width="100%" alt="Jency M - Software Engineer" />
 
-  <br/>
+  <br/><br/>
 
   <p align="center">
     <a href="https://github.com/jencym634-sudo">
@@ -28,29 +28,37 @@
   <code>01 / SELECTED WORK</code>
 </p>
 
-<table width="100%" style="border-collapse: collapse; border: none;">
+<table width="100%" style="border-collapse: separate; border-spacing: 12px; border: none;">
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
-      <a href="https://github.com/jencym634-sudo">
-        <img src="assets/ai-app-factory.svg" width="100%" alt="AI App Factory" />
-      </a>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #21262D; border-radius: 10px; padding: 14px;">
+      <a href="https://github.com/jencym634-sudo"><img src="assets/ai-app-factory.svg" width="100%" alt="AI App Factory" style="border-radius: 6px;" /></a>
+      <br/><br/>
+      <h3 style="margin: 0; color: #F5F7FA; font-size: 15px;">01 / AI APP FACTORY</h3>
+      <p style="margin: 6px 0 12px 0; color: #8B949E; font-size: 13px;">Natural language &rarr; Frappe applications</p>
+      <code>Python</code> &bull; <code>Frappe</code> &bull; <code>AI</code>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
-      <a href="https://github.com/jencym634-sudo">
-        <img src="assets/erp-health-monitor.svg" width="100%" alt="ERP Health Monitor" />
-      </a>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #21262D; border-radius: 10px; padding: 14px;">
+      <a href="https://github.com/jencym634-sudo"><img src="assets/erp-health-monitor.svg" width="100%" alt="ERP Health Monitor" style="border-radius: 6px;" /></a>
+      <br/><br/>
+      <h3 style="margin: 0; color: #F5F7FA; font-size: 15px;">02 / ERP HEALTH MONITOR</h3>
+      <p style="margin: 6px 0 12px 0; color: #8B949E; font-size: 13px;">Real-time ERP infrastructure monitoring</p>
+      <code>Frappe</code> &bull; <code>Redis</code> &bull; <code>WebSockets</code>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
-      <a href="https://github.com/jencym634-sudo">
-        <img src="assets/classroom-observer.svg" width="100%" alt="Live Classroom Observer" />
-      </a>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #21262D; border-radius: 10px; padding: 14px;">
+      <a href="https://github.com/jencym634-sudo"><img src="assets/classroom-observer.svg" width="100%" alt="Live Classroom Observer" style="border-radius: 6px;" /></a>
+      <br/><br/>
+      <h3 style="margin: 0; color: #F5F7FA; font-size: 15px;">03 / LIVE CLASSROOM OBSERVER</h3>
+      <p style="margin: 6px 0 12px 0; color: #8B949E; font-size: 13px;">Real-time attendance &amp; engagement</p>
+      <code>FastAPI</code> &bull; <code>Redis</code> &bull; <code>WebSockets</code>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
-      <a href="https://github.com/jencym634-sudo">
-        <img src="assets/caption-studio.svg" width="100%" alt="AI Caption Studio" />
-      </a>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #21262D; border-radius: 10px; padding: 14px;">
+      <a href="https://github.com/jencym634-sudo"><img src="assets/caption-studio.svg" width="100%" alt="AI Caption Studio" style="border-radius: 6px;" /></a>
+      <br/><br/>
+      <h3 style="margin: 0; color: #F5F7FA; font-size: 15px;">04 / AI CAPTION STUDIO</h3>
+      <p style="margin: 6px 0 12px 0; color: #8B949E; font-size: 13px;">Speech &rarr; translation &rarr; subtitles</p>
+      <code>FastAPI</code> &bull; <code>Whisper</code> &bull; <code>FFmpeg</code>
     </td>
   </tr>
 </table>
@@ -73,9 +81,28 @@
   <code>03 / TECHNOLOGIES &amp; CAPABILITIES</code>
 </p>
 
-<p align="center">
-  <img src="assets/technologies-grid.svg" width="100%" alt="Technologies Grid" />
-</p>
+<table width="100%" style="border-collapse: separate; border-spacing: 12px; border: none;">
+  <tr>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #7C3AED; border-radius: 8px; padding: 14px;">
+      <h4 style="margin: 0 0 8px 0; color: #7C3AED; font-size: 12px; letter-spacing: 0.5px;">AI &amp; AUTOMATION</h4>
+      <code>Python</code> &bull; <code>AI / LLM</code> &bull; <code>FastAPI</code>
+    </td>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #5B8CFF; border-radius: 8px; padding: 14px;">
+      <h4 style="margin: 0 0 8px 0; color: #5B8CFF; font-size: 12px; letter-spacing: 0.5px;">BUSINESS SYSTEMS</h4>
+      <code>Frappe Framework</code> &bull; <code>ERPNext</code> &bull; <code>MariaDB</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #10B981; border-radius: 8px; padding: 14px;">
+      <h4 style="margin: 0 0 8px 0; color: #10B981; font-size: 12px; letter-spacing: 0.5px;">QUALITY ENGINEERING</h4>
+      <code>Cypress E2E</code> &bull; <code>API Testing</code> &bull; <code>Docker</code>
+    </td>
+    <td width="50%" valign="top" style="background: #111315; border: 1px solid #00F0FF; border-radius: 8px; padding: 14px;">
+      <h4 style="margin: 0 0 8px 0; color: #00F0FF; font-size: 12px; letter-spacing: 0.5px;">REAL-TIME SYSTEMS</h4>
+      <code>Redis</code> &bull; <code>WebSockets</code> &bull; <code>Linux</code>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
