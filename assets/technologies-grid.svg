@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tech-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090A" />
+      <stop offset="100%" stop-color="#0E1117" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="150" rx="12" fill="url(#tech-bg)" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- Grid of 12 Technology Pills -->
+  <g transform="translate(30, 22)">
+    <!-- Row 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Python</text>
+    </g>
+
+    <g transform="translate(195, 0)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#5B8CFF" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Frappe Framework</text>
+    </g>
+
+    <g transform="translate(390, 0)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#5B8CFF" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">ERPNext</text>
+    </g>
+
+    <g transform="translate(585, 0)">
+      <rect width="205" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="102.5" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">FastAPI</text>
+    </g>
+
+    <!-- Row 2 -->
+    <g transform="translate(0, 44)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">React</text>
+    </g>
+
+    <g transform="translate(195, 44)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Redis</text>
+    </g>
+
+    <g transform="translate(390, 44)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Docker</text>
+    </g>
+
+    <g transform="translate(585, 44)">
+      <rect width="205" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="102.5" y="21" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Cypress E2E</text>
+    </g>
+
+    <!-- Row 3 -->
+    <g transform="translate(0, 88)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#7C3AED" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">AI / LLM Agents</text>
+    </g>
+
+    <g transform="translate(195, 88)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#00F0FF" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">WebSockets</text>
+    </g>
+
+    <g transform="translate(390, 88)">
+      <rect width="180" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="90" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">MariaDB</text>
+    </g>
+
+    <g transform="translate(585, 88)">
+      <rect width="205" height="34" rx="6" fill="#15181C" stroke="#30363D" stroke-width="1"/>
+      <text x="102.5" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="11" text-anchor="middle" font-weight="600">Linux / Ubuntu</text>
+    </g>
+  </g>
+</svg>

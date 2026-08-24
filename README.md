@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Studio Hero Visual -->
-  <img src="assets/hero-studio.svg" width="100%" alt="Jency M - Digital Engineering Studio" />
+  <!-- Hero Visual Component -->
+  <img src="assets/hero-studio.svg" width="100%" alt="Jency M - Software Engineer" />
 
   <br/>
 
@@ -21,13 +21,16 @@
 
 </div>
 
----
+<br/>
 
-## SELECTED WORK
+<!-- 01 / SELECTED WORK -->
+<p align="center">
+  <code>01 / SELECTED WORK</code>
+</p>
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 12px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/ai-app-factory.svg" width="100%" alt="AI App Factory" />
       </a>
@@ -35,7 +38,7 @@
       Natural language &rarr; Frappe applications<br/>
       <code>Python &bull; Frappe &bull; AI</code></p>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 12px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/erp-health-monitor.svg" width="100%" alt="ERP Health Monitor" />
       </a>
@@ -45,7 +48,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 12px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/classroom-observer.svg" width="100%" alt="Live Classroom Observer" />
       </a>
@@ -53,7 +56,7 @@
       Real-time attendance &amp; engagement<br/>
       <code>FastAPI &bull; Redis &bull; WebSockets</code></p>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 12px;">
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/caption-studio.svg" width="100%" alt="AI Caption Studio" />
       </a>
@@ -64,51 +67,45 @@
   </tr>
 </table>
 
----
+<br/>
 
-<!-- Currently Building Visual -->
+<!-- 02 / CURRENTLY BUILDING -->
+<p align="center">
+  <code>02 / CURRENTLY BUILDING</code>
+</p>
+
 <p align="center">
   <img src="assets/building-flow.svg" width="100%" alt="Currently Building - AI App Factory" />
 </p>
 
----
+<br/>
 
-## CAPABILITIES
-
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <p><b>AI SYSTEMS</b><br/>
-      LLM applications</p>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <p><b>BUSINESS SYSTEMS</b><br/>
-      Frappe / ERPNext</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <p><b>QUALITY ENGINEERING</b><br/>
-      Cypress / API / E2E</p>
-    </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
-      <p><b>REAL-TIME SYSTEMS</b><br/>
-      Redis / WebSockets</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## TECHNOLOGIES
-
+<!-- 03 / CAPABILITIES -->
 <p align="center">
-  <img src="assets/tech-matrix.svg" width="100%" alt="Technology Stack Grid" />
+  <code>03 / CAPABILITIES</code>
 </p>
 
----
+<p align="center">
+  <img src="assets/capabilities-matrix.svg" width="100%" alt="Engineering Capabilities" />
+</p>
 
-## ACTIVITY
+<br/>
+
+<!-- 04 / TECHNOLOGIES -->
+<p align="center">
+  <code>04 / TECHNOLOGIES</code>
+</p>
+
+<p align="center">
+  <img src="assets/technologies-grid.svg" width="100%" alt="Technologies System Grid" />
+</p>
+
+<br/>
+
+<!-- 05 / ACTIVITY -->
+<p align="center">
+  <code>05 / ACTIVITY</code>
+</p>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jencym634-sudo&theme=nord&hide_border=true" width="100%" alt="GitHub Activity Graph" />
@@ -116,14 +113,9 @@
 
 <br/>
 
+<!-- Minimal Footer -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jencym634-sudo/jencym634-sudo/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Grid" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <p><b>JENCY M &bull; DIGITAL ENGINEERING STUDIO</b></p>
+  <p><b>JENCY M &bull; SOFTWARE ENGINEER</b></p>
   <p><sub>BUILD &bull; TEST &bull; AUTOMATE &bull; SHIP</sub></p>
   <p>
     <a href="https://github.com/jencym634-sudo">GitHub</a> &bull;
