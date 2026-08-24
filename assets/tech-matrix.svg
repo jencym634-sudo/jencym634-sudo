@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="100%" height="100%">
+  <defs>
+    <linearGradient id="tm-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#08090A" />
+      <stop offset="100%" stop-color="#0E1117" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="180" rx="12" fill="url(#tm-bg)" stroke="#21262D" stroke-width="1.5"/>
+
+  <!-- Row 1: LANGUAGES & APPLICATIONS -->
+  <g transform="translate(30, 30)">
+    <!-- LANGUAGES Card -->
+    <rect width="380" height="55" rx="8" fill="#15181C" stroke="#21262D" stroke-width="1"/>
+    <text x="20" y="22" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">LANGUAGES</text>
+    <text x="20" y="42" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">Python  ·  JavaScript  ·  SQL</text>
+
+    <!-- APPLICATIONS Card -->
+    <g transform="translate(410, 0)">
+      <rect width="380" height="55" rx="8" fill="#15181C" stroke="#21262D" stroke-width="1"/>
+      <text x="20" y="22" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">APPLICATIONS</text>
+      <text x="20" y="42" fill="#5B8CFF" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">Frappe  ·  ERPNext  ·  FastAPI  ·  React</text>
+    </g>
+  </g>
+
+  <!-- Row 2: INFRASTRUCTURE & AI / QUALITY -->
+  <g transform="translate(30, 98)">
+    <!-- INFRASTRUCTURE Card -->
+    <rect width="380" height="55" rx="8" fill="#15181C" stroke="#21262D" stroke-width="1"/>
+    <text x="20" y="22" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">INFRASTRUCTURE</text>
+    <text x="20" y="42" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">Redis  ·  MariaDB  ·  Docker  ·  Linux</text>
+
+    <!-- AI & QUALITY Card -->
+    <g transform="translate(410, 0)">
+      <rect width="380" height="55" rx="8" fill="#15181C" stroke="#21262D" stroke-width="1"/>
+      <text x="20" y="22" fill="#8B949E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="700" letter-spacing="1">AI &amp; QUALITY ENGINEERING</text>
+      <text x="20" y="42" fill="#00F0FF" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600">AI / LLM  ·  Cypress  ·  WebSockets</text>
+    </g>
+  </g>
+</svg>
