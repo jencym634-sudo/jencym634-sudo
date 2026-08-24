@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Hero Visual Component -->
+  <!-- Refined Hero Visual -->
   <img src="assets/hero-studio.svg" width="100%" alt="Jency M - Software Engineer" />
 
   <br/>
@@ -80,40 +80,29 @@
 
 <br/>
 
-<!-- 03 / CAPABILITIES -->
+<!-- 03 / TECHNOLOGIES & CAPABILITIES -->
 <p align="center">
-  <code>03 / CAPABILITIES</code>
+  <code>03 / TECHNOLOGIES &amp; CAPABILITIES</code>
 </p>
 
 <p align="center">
-  <img src="assets/capabilities-matrix.svg" width="100%" alt="Engineering Capabilities" />
-</p>
-
-<br/>
-
-<!-- 04 / TECHNOLOGIES -->
-<p align="center">
-  <code>04 / TECHNOLOGIES</code>
-</p>
-
-<p align="center">
-  <img src="assets/technologies-grid.svg" width="100%" alt="Technologies System Grid" />
+  <img src="assets/technologies-grid.svg" width="100%" alt="Technologies Grid" />
 </p>
 
 <br/>
 
-<!-- 05 / ACTIVITY -->
+<!-- 04 / ACTIVITY -->
 <p align="center">
-  <code>05 / ACTIVITY</code>
+  <code>04 / ACTIVITY</code>
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jencym634-sudo&theme=nord&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/jencym634-sudo/jencym634-sudo/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Grid" width="100%" />
 </div>
 
 <br/>
 
-<!-- Minimal Footer -->
+<!-- Minimal Quiet Footer -->
 <div align="center">
   <p><b>JENCY M &bull; SOFTWARE ENGINEER</b></p>
   <p><sub>BUILD &bull; TEST &bull; AUTOMATE &bull; SHIP</sub></p>
