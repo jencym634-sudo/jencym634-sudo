@@ -1,60 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 240" width="100%" height="100%">
   <defs>
-    <linearGradient id="card-grad4" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0E1117" />
-      <stop offset="100%" stop-color="#15181C" />
+    <linearGradient id="card-bg-4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111315" />
+      <stop offset="100%" stop-color="#16191E" />
     </linearGradient>
   </defs>
 
-  <rect width="400" height="180" rx="10" fill="url(#card-grad4)" stroke="#21262D" stroke-width="1.5"/>
+  <!-- Outer Card Frame -->
+  <rect width="410" height="240" rx="10" fill="url(#card-bg-4)" stroke="#21262D" stroke-width="1.5"/>
 
-  <!-- Left: Video Frame Preview -->
-  <g transform="translate(20, 25)">
-    <rect width="160" height="130" rx="8" fill="#1A1E24" stroke="#7C3AED" stroke-width="1.5"/>
-    <!-- Video Content Placeholder -->
-    <rect x="8" y="8" width="144" height="114" rx="4" fill="#0D1117"/>
-    <!-- Play Icon -->
-    <circle cx="80" cy="55" r="16" fill="#7C3AED" opacity="0.8"/>
-    <polygon points="75,47 90,55 75,63" fill="#FFFFFF"/>
-    
-    <!-- Subtitle Bar Over Video -->
-    <rect x="20" y="90" width="120" height="20" rx="4" fill="#000000" opacity="0.75" stroke="#00F0FF" stroke-width="0.8"/>
-    <text x="80" y="103" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="8" text-anchor="middle" font-weight="600">[ Multilingual Subtitle ]</text>
+  <!-- Top Visual Graphic Area (Height: 125px) -->
+  <g transform="translate(15, 15)">
+    <rect width="380" height="110" rx="6" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+
+    <!-- Left: Video Frame Preview -->
+    <g transform="translate(12, 10)">
+      <rect width="140" height="90" rx="5" fill="#15181C" stroke="#7C3AED" stroke-width="1"/>
+      <rect x="6" y="6" width="128" height="78" rx="3" fill="#0D1117"/>
+      <circle cx="70" cy="40" r="12" fill="#7C3AED" opacity="0.8"/>
+      <polygon points="66,34 78,40 66,46" fill="#FFFFFF"/>
+      <rect x="15" y="64" width="110" height="16" rx="3" fill="#000000" opacity="0.8" stroke="#00F0FF" stroke-width="0.6"/>
+      <text x="70" y="75" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="7.5" text-anchor="middle" font-weight="600">[ Subtitle Track ]</text>
+    </g>
+
+    <!-- Right: Speech & Translation Pipeline -->
+    <g transform="translate(165, 10)">
+      <!-- Audio Waveform -->
+      <rect width="200" height="26" rx="4" fill="#15181C" stroke="#21262D" stroke-width="0.8"/>
+      <text x="10" y="12" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="7.5">AUDIO WAVEFORM</text>
+      <g transform="translate(10, 16)">
+        <rect x="0" y="1" width="2" height="5" fill="#5B8CFF"/>
+        <rect x="4" y="0" width="2" height="7" fill="#5B8CFF"/>
+        <rect x="8" y="2" width="2" height="4" fill="#5B8CFF"/>
+        <rect x="12" y="0" width="2" height="7" fill="#00F0FF"/>
+        <rect x="16" y="1" width="2" height="6" fill="#5B8CFF"/>
+        <rect x="20" y="0" width="2" height="8" fill="#5B8CFF"/>
+      </g>
+      <text x="140" y="17" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="700">WHISPER</text>
+
+      <!-- Translation Layer -->
+      <g transform="translate(0, 32)">
+        <rect width="200" height="26" rx="4" fill="#15181C" stroke="#21262D" stroke-width="0.8"/>
+        <text x="10" y="11" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="7.5">TRANSLATION LAYER</text>
+        <rect x="10" y="16" width="180" height="5" rx="2" fill="#7C3AED" opacity="0.4"/>
+        <rect x="10" y="16" width="100" height="5" rx="2" fill="#7C3AED"/>
+      </g>
+
+      <!-- FFmpeg Output -->
+      <g transform="translate(0, 64)">
+        <rect width="200" height="26" rx="4" fill="#15181C" stroke="#00F0FF" stroke-width="0.8"/>
+        <text x="10" y="12" fill="#00F0FF" font-family="'JetBrains Mono', monospace" font-size="7.5" font-weight="700">FFMPEG RENDERING</text>
+        <text x="10" y="21" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="7">ASS Subtitles ➔ MP4 Export</text>
+      </g>
+    </g>
   </g>
 
-  <!-- Right: Speech-to-Text & Subtitle Waveform Pipeline -->
-  <g transform="translate(200, 25)">
-    <!-- Whispers / Audio Input -->
-    <rect width="180" height="36" rx="6" fill="#1A1E24" stroke="#30363D" stroke-width="1"/>
-    <text x="12" y="16" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="8">AUDIO WAVEFORM</text>
-    <!-- Waveform Bars -->
-    <g transform="translate(10, 22)">
-      <rect x="0" y="2" width="3" height="8" fill="#5B8CFF"/>
-      <rect x="5" y="0" width="3" height="12" fill="#5B8CFF"/>
-      <rect x="10" y="4" width="3" height="6" fill="#5B8CFF"/>
-      <rect x="15" y="1" width="3" height="10" fill="#5B8CFF"/>
-      <rect x="20" y="3" width="3" height="8" fill="#5B8CFF"/>
-      <rect x="25" y="0" width="3" height="12" fill="#00F0FF"/>
-      <rect x="30" y="2" width="3" height="9" fill="#5B8CFF"/>
-      <rect x="35" y="5" width="3" height="5" fill="#5B8CFF"/>
-      <rect x="40" y="1" width="3" height="11" fill="#5B8CFF"/>
-      <rect x="45" y="3" width="3" height="7" fill="#5B8CFF"/>
-    </g>
-    <text x="120" y="24" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="8" font-weight="700">WHISPER</text>
+  <!-- Divider Line -->
+  <line x1="15" y1="140" x2="395" y2="140" stroke="#21262D" stroke-width="1"/>
 
-    <!-- Subtitle Track Layers -->
-    <g transform="translate(0, 46)">
-      <rect width="180" height="36" rx="6" fill="#1A1E24" stroke="#30363D" stroke-width="1"/>
-      <text x="12" y="15" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="8">TRANSLATION LAYER</text>
-      <rect x="12" y="22" width="156" height="8" rx="3" fill="#7C3AED" opacity="0.4"/>
-      <rect x="12" y="22" width="90" height="8" rx="3" fill="#7C3AED"/>
-    </g>
+  <!-- Bottom Details Area -->
+  <g transform="translate(20, 162)">
+    <!-- Number & Title -->
+    <text x="0" y="0" fill="#10B981" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="700">04 /</text>
+    <text x="32" y="0" fill="#F5F7FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="800" letter-spacing="0.3">AI CAPTION STUDIO</text>
+    
+    <!-- Link Arrow -->
+    <text x="370" y="0" fill="#5B8CFF" font-family="-apple-system, sans-serif" font-size="12" text-anchor="end" font-weight="600">VIEW ↗</text>
 
-    <!-- FFmpeg Subtitle Burn-In Output -->
-    <g transform="translate(0, 92)">
-      <rect width="180" height="38" rx="6" fill="#1A1E24" stroke="#00F0FF" stroke-width="1"/>
-      <text x="12" y="16" fill="#00F0FF" font-family="'JetBrains Mono', monospace" font-size="8" font-weight="700">FFMPEG RENDERING</text>
-      <text x="12" y="30" fill="#F5F7FA" font-family="'JetBrains Mono', monospace" font-size="8">ASS Subtitles ➔ MP4</text>
+    <!-- Subtitle -->
+    <text x="0" y="22" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400">Speech → translation → subtitles</text>
+
+    <!-- Tech Tags -->
+    <g transform="translate(0, 36)">
+      <rect width="180" height="20" rx="4" fill="#0D1117" stroke="#21262D" stroke-width="0.8"/>
+      <text x="8" y="13.5" fill="#8B949E" font-family="'JetBrains Mono', monospace" font-size="9.5" font-weight="600">FastAPI · Whisper · FFmpeg</text>
     </g>
   </g>
 </svg>

@@ -30,39 +30,27 @@
 
 <table width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/ai-app-factory.svg" width="100%" alt="AI App Factory" />
       </a>
-      <p><b>01 &bull; AI APP FACTORY</b><br/>
-      Natural language &rarr; Frappe applications<br/>
-      <code>Python &bull; Frappe &bull; AI</code></p>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/erp-health-monitor.svg" width="100%" alt="ERP Health Monitor" />
       </a>
-      <p><b>02 &bull; ERP HEALTH MONITOR</b><br/>
-      Real-time ERP infrastructure monitoring<br/>
-      <code>Frappe &bull; Redis &bull; WebSockets</code></p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/classroom-observer.svg" width="100%" alt="Live Classroom Observer" />
       </a>
-      <p><b>03 &bull; LIVE CLASSROOM OBSERVER</b><br/>
-      Real-time attendance &amp; engagement<br/>
-      <code>FastAPI &bull; Redis &bull; WebSockets</code></p>
     </td>
-    <td width="50%" valign="top" style="border: none; padding: 10px;">
+    <td width="50%" valign="top" style="border: none; padding: 8px 12px;">
       <a href="https://github.com/jencym634-sudo">
         <img src="assets/caption-studio.svg" width="100%" alt="AI Caption Studio" />
       </a>
-      <p><b>04 &bull; AI CAPTION STUDIO</b><br/>
-      Speech &rarr; translation &rarr; subtitles<br/>
-      <code>FastAPI &bull; Whisper &bull; FFmpeg</code></p>
     </td>
   </tr>
 </table>
