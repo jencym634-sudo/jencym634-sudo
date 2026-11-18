@@ -18,7 +18,7 @@ I enjoy exploring open-source technologies, understanding user needs, evaluating
 
 ### 🛠️ Technical Skills
 
-**Programming & Web:** Python, PHP, JavaScript, SQL, HTML, CSS
+**Programming Languages** Python, JavaScript
 
 **Frameworks & Backend:** Frappe, ERPNext, REST APIs
 
